@@ -1,0 +1,103 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    display: inline-block;
+    padding: 20px;
+    height: 40px;
+    border-bottom: 1px solid #212529;
+    width: 100%;
+}
+
+.logo{
+    display: inline-block;
+    float: left;
+}
+
+ .menu{
+    display: inline-block;
+    float: right;
+ }   
+
+
+.menu p{
+    float:right;
+    display: inline-block;
+    padding-right: 80px;
+    line-height: 35px;
+}
+
+
+.section1{
+    max-width: 60%;
+}
+
+.section1 button{
+    margin-top: 100px;
+    padding: 9px  30px;
+    background-color: #327cec;
+    color: white;
+    border-radius: 23px;
+    margin-left: 115px;
+    font-size: 20px;
+    font-weight: 500;
+    border-style: none;
+}
+
+.section1 h1{
+    margin-left: 115px;
+   font-size: 45px;
+    padding-top: 30px;
+    background: linear-gradient(90deg, #2B7DDD 3.58%, #45CDD6 50.39%, #46B314 98.18%);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+            font-weight: bolder;
+    
+}
+
+.section1 p{
+    margin-left: 115px;
+    margin-top: 50px;
+    font-size: 29px;
+}
+.h1{
+    color: linear-gradient(90deg, #2B7DDD 3.58%, #45CDD6 50.39%, #46B314 98.18%) !important;
+}
+
+
+.section2{
+    display: inline-block;
+    float: right;
+    margin-top: -379px;
+    margin-right: 145px;
+}
+
+.section2 h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    
+}
+
+.section2 input{
+    width: 105%;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.section2 button{
+    font-size: 15px;
+    padding: 5px 160px;
+    margin-top: 20px;
+    margin-right: -26px;
+}
+
+
+
+
